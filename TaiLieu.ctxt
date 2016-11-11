@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=maTL\ nxb\ sbph
+comment0.target=TaiLieu(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ thongTin()
+comment2.params=maTL
+comment2.target=void\ setMaTL(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getMaTL()
+comment4.params=nxb
+comment4.target=void\ setNxb(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getNxb()
+comment6.params=sbph
+comment6.target=void\ setSbph(int)
+comment7.params=
+comment7.target=int\ getSbph()
+numComments=8

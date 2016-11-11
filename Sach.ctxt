@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=maTL\ nxb\ sbph\ tg\ st
+comment0.target=Sach(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ thongTin()
+comment2.params=
+comment2.target=java.lang.String\ getTg()
+comment3.params=
+comment3.target=int\ getSt()
+comment4.params=tg
+comment4.target=void\ setTg(java.lang.String)
+comment5.params=st
+comment5.target=void\ setSt(int)
+numComments=6
